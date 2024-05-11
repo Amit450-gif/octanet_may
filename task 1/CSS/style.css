@@ -1,0 +1,210 @@
+*{
+    margin:0;
+    padding:0;
+}
+.website{
+    height:1500px;
+    width:100%;
+    
+    
+}
+.header{
+    height:60px;
+    width:100%;
+    background-color:lavender;
+    
+}
+.logo{
+    
+    height:60px;
+    width:50%;
+    float: left;
+    background-color:lavender;
+    opacity:0.7;
+    
+    
+    
+    
+
+
+}
+
+img{
+    background-color:lavender;
+    float:left;
+    margin-top:10px;
+    
+    margin-left: 30px;
+    margin-right: 40px;
+
+
+}
+h2{
+    color:black;
+    
+    margin-top:15px;
+    padding-left: 260px;
+    font-style:oblique;
+    text-align: center;
+    float:left;
+    margin-right:80px;
+}
+.but{
+    background-color: grey;
+    margin-left:300px;
+    width:200px;
+    padding:20px;
+    
+    text-decoration: none;
+    float:left;
+    text-align: center;
+    list-style: none;
+    margin-right: 10px;
+
+}
+.but:hover{
+    text-shadow: 5px;
+    transform: scale(1.2);
+    
+    display: block;
+    color:black;
+}
+
+
+.menu{
+    
+    width:10px;
+    height:2px;
+    opacity:0.7;
+    
+    
+}
+.info{
+    
+    height:60px;
+    float:left;
+    
+    width:600px;
+
+    
+    
+}
+b{
+    color:whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.menu{
+    border:2px solid lavender;
+    width:5px;
+    height:0;
+    float:left;
+    padding-left: 20px;
+    margin-top: 10px;
+    
+}
+.celeb{
+    background-image: url('https://w0.peakpx.com/wallpaper/338/22/HD-wallpaper-the-castle-on-the-river-water-mountains-painting-river-castle-scenery.jpg' );
+    color:white;
+    border:2px solid lavender;
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position: center center;
+    height:600px;
+    background-attachment: fixed;
+    
+    
+    
+}
+.celeb h1{
+    margin-top:450px;
+    margin-left:45px;
+    font-size:40px;
+}
+.diff{
+    text-align: center;
+    background-color: rgb(93, 138, 138);
+    color: white;
+    padding:20px;
+    border:2px solid rgb(93, 138, 138);
+    font-style: oblique;
+}
+.view{
+    margin-left:50px;
+    margin-top: 20px;
+    padding-bottom:50px;
+    
+}
+.po{
+    
+    margin-top:280px;
+}
+h1{
+    margin-left:400px;
+    margin-top:50px;
+    margin-right:200px;
+    
+}
+.menu{
+    border:2px solid black;
+    height:0;
+}
+h3{
+    font-size: 30px;
+    text-shadow: 10px;
+}
+.pho{
+    padding-top: 10px;
+}
+.fp{
+    padding-left:80px;
+}
+
+.cards{
+    padding-left:70px;
+    padding-top: 10px;
+    
+}
+.social{
+    margin-top:150px;
+    background-image: url(http://wallpaperheart.com/wp-content/uploads/2018/04/background-pictures.jpg);
+    height:700px;
+    background-size: cover;
+    opacity:0.7;
+    
+}
+h4{
+    padding-top: 80px;
+    padding-left:300px;
+    font-size: 50px;
+    color:white;
+}
+.gog{
+    padding-left:300px;
+    color:white;
+    font-size:30px;
+}
+.contact{
+    padding-left:300px;
+    color:white;
+    font-size:30px;
+    float:left;
+    opacity:none;
+    
+}
+.cont{
+    padding-left:300px;
+    color:white;
+    font-size:30px;
+}
+.icon{
+    color:white;
+    margin-top:300px;
+    margin-left: 300px;
+
+}
+h5{
+    padding-left: 300px;
+    color:white;
+}
